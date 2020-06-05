@@ -1,8 +1,5 @@
 import React from "react";
 
-import User from "./components/user/user.component";
-import Post from "./components/post/post.component";
-
 import "./App.css";
 
 const App = (props) => {
